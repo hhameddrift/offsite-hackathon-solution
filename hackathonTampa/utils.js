@@ -1,7 +1,7 @@
 const axios = require('axios')
 const crmUrl = 'http://bige-hackathon.herokuapp.com/api'
 const driftApi = 'https://driftapi.com/contacts'
-const driftToken = 'weVls389dHWDSplvg3p0SffNzBjKG2jH'
+const driftToken = driftToken
 
 //Parse email to get the domain name 
 
